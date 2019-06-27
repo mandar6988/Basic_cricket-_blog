@@ -1,6 +1,7 @@
 # Basic_cricket-_blog
 Basic analysis of one day cricket matches
 
+
 Table of Contents:
 1. Installation
 2. Project Motivation
@@ -37,6 +38,6 @@ It consists of these files:
 The main conclusion of this project is find here
 
 5. Licensing, Authors, and Acknowledgements
-For doing this project must gives credit to Jalaz Kumar for making and giving data. Licensing for the data and other descriptive information at the Kaggle link 
-available at https://www.kaggle.com/jaykay12/odi-cricket-matches-19712017. Feel comfortable to use the code here as you wish!
+For doing this project must gives credit to Jalaz Kumar for making and giving data. Licensing for the data and other descriptive information at the Kaggle link available at here. Feel comfortable to use the code here as you wish!
+
  
