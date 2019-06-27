@@ -43,10 +43,10 @@ It consists of these files:
 - LabelledDataset.csv : Suitable for Support Vector Machines
 
 4. Results:
-The main conclusion of this project is find here
+The main conclusion of this project is find [here] {https://medium.com/@mandar6988/a-basic-cricket-blog-e72f9f4aabae}
 
 5. Licensing, Authors, and Acknowledgements:
 
-For doing this project must gives credit to Jalaz Kumar for making and giving data. Licensing for the data and other descriptive information at the Kaggle link available at here. Feel comfortable to use the code here as you wish!
+For doing this project must gives credit to Jalaz Kumar for making and giving data. Licensing for the data and other descriptive information at the Kaggle link available at [here]{https://www.kaggle.com/jaykay12/odi-cricket-matches-19712017}. Feel comfortable to use the code here as you wish!
 
  
