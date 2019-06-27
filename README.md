@@ -43,7 +43,8 @@ It consists of these files:
 4. Results:
 The main conclusion of this project is find here
 
-5. Licensing, Authors, and Acknowledgements
+5. Licensing, Authors, and Acknowledgements:
+
 For doing this project must gives credit to Jalaz Kumar for making and giving data. Licensing for the data and other descriptive information at the Kaggle link available at here. Feel comfortable to use the code here as you wish!
 
  
