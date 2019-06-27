@@ -17,11 +17,17 @@ Project just required basic version of Anaconda. It just need basic libraries to
  the answers of :
  
 Question 1: Which of the team has highest wins?
+
 Question 2 : Which of the team has most percentage of wins?
+
 Question 3: Is it any advantage of being host?
+
 Question 4: How much advantage taken by each country as a host?
+
 Question 5: What is the percentage of winning by innings.
+
 Question 6: Who have more 'wins' at a neutral place.
+
 
 3. File Description:
  There are 4 dataset avaliable for analysis of Cricket matches. To know the answers of above questions 1 notebook is showcased. 
