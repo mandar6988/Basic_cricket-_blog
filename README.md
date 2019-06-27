@@ -43,7 +43,7 @@ It consists of these files:
 - LabelledDataset.csv : Suitable for Support Vector Machines
 
 4. Results:
-The main conclusion of this project is find [here] (https://medium.com/@mandar6988/a-basic-cricket-blog-e72f9f4aabae)
+The main conclusion of this project is find [here](https://medium.com/@mandar6988/a-basic-cricket-blog-e72f9f4aabae)
 
 5. Licensing, Authors, and Acknowledgements:
 
