@@ -1,4 +1,4 @@
-# Basic_cricket-_blog
+# Basic Cricket Blog
 Basic analysis of one day cricket matches
 
 
