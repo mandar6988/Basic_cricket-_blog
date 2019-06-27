@@ -13,8 +13,10 @@ Table of Contents:
 Project just required basic version of Anaconda. It just need basic libraries to run code.
 
 2. Project Motivation:
+
  As a Cricket world cup is going on , I was interseted to do just basic analysis of One Day Cricket Matches played. I am looking for
  the answers of :
+ 
  
 Question 1: Which of the team has highest wins?
 
